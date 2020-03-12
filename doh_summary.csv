@@ -1,0 +1,51 @@
+﻿state,covid_case,covid_main,covid_other,case_page_seems_scrapable,notes
+Alabama,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,0,
+Alaska,http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx,http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx,,0,
+Arizona,https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home,,,1,
+Arkansas,https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus,,,1,
+California,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx,,,1,
+Colorado,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,https://www.colorado.gov/pacific/cdphe/2019-novel-coronavirus,,1,
+Connecticut,https://portal.ct.gov/Coronavirus,,,1,
+Delaware,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,,,1,
+Florida,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html#YK9k5ckg9D,,,1,
+Georgia,https://dph.georgia.gov/press-releases,https://dph.georgia.gov/novelcoronavirus,,0,Theres no case count page...
+Hawaii,,https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/,,0,Bet this'll change soon
+Idaho,https://coronavirus.idaho.gov/,,,1,
+Illinois,http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus,,,1,
+Indiana,https://www.in.gov/isdh/28470.htm,,,0,"This is not gonna scrape nice. The count is some widget, ArcGIS maybe"
+Iowa,https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus,,,1,
+Kansas,,http://www.kdheks.gov/coronavirus/index.htm,,0,"Change soon, 1 presumptive positive case"
+Kentucky,https://chfs.ky.gov/agencies/dph/pages/covid19.aspx,,,1,
+Louisiana,http://ldh.la.gov/index.cfm/page/3835,,,1,
+Maine,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,,,1,
+Maryland,https://phpa.health.maryland.gov/Pages/Novel-coronavirus.aspx,,,1,
+Massachusetts,https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring,https://www.mass.gov/resource/information-on-the-outbreak-of-coronavirus-disease-2019-covid-19,,1,
+Michigan,https://www.michigan.gov/coronavirus,,,1,
+Minnesota,https://www.health.state.mn.us/diseases/coronavirus/situation.html,https://www.health.state.mn.us/diseases/coronavirus/index.html,,1,
+Mississippi,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,1,
+Missouri,https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/,,,1,
+Montana,https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt,,,1,
+Nebraska,http://dhhs.ne.gov/Pages/Coronavirus.aspx,,,1,
+Nevada,http://dpbh.nv.gov/Programs/OPHIE/dta/Hot_Topics/Coronavirus/,,,0,Times out right now…
+New Hampshire,https://www.dhhs.nh.gov/dphs/cdcs/2019-ncov.htm,,,1,
+New Jersey,https://www.nj.gov/health/,https://www.nj.gov/health/cd/topics/ncov.shtml,,1,DoH homepage has case count but not COVID page… VERY poorly designed
+New Mexico,http://cv.nmhealth.org/,,,1,
+New York,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,1,
+North Carolina,https://www.ncdhhs.gov/covid-19-case-count-north-carolina,https://www.ncdhhs.gov/divisions/public-health/coronavirus-disease-2019-covid-19-response-north-carolina,,1,
+North Dakota,https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases,https://www.health.nd.gov/diseases-conditions/coronavirus,,0,Case count is in a PowerBI wdiget
+Ohio,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/,,,1,
+Oklahoma,https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/Coronavirus_Disease_2019/Oklahoma_Response_to_Coronavirus_Disease_2019/index.html,,,1,
+Oregon,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,1,
+Pennsylvania,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,1,
+Rhode Island,https://health.ri.gov/data/covid-19/,,,1,
+South Carolina,https://www.scdhec.gov/health/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19,https://www.scdhec.gov/health/infectious-diseases/viruses/coronavirus-disease-2019-covid-19,,1,
+South Dakota,https://doh.sd.gov/news/Coronavirus.aspx,,,1,
+Tennessee,https://www.tn.gov/health/cedep/ncov.html,,,1,
+Texas,https://www.dshs.texas.gov/news/updates.shtm#coronavirus,https://www.dshs.texas.gov/coronavirus/,,1,
+Utah,https://coronavirus.utah.gov/latest/,https://coronavirus.utah.gov/,,1,
+Vermont,https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus,,,1,
+Virginia,http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/,http://www.vdh.virginia.gov/,,1,
+Washington,https://www.doh.wa.gov/Emergencies/Coronavirus,,,1,
+West Virginia,https://dhhr.wv.gov/Coronavirus%20Disease-COVID-19/Pages/default.aspx,,,1,
+Wisconsin,https://www.dhs.wisconsin.gov/outbreaks/index.htm,https://www.dhs.wisconsin.gov/disease/covid-19.htm,,1,
+Wyoming,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/,,,1,"This is gonna change soon, they only have one case"
